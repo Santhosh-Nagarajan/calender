@@ -5,8 +5,8 @@
   <artifactId>java-calendar-demo</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>java-calendar-demo Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <name>java-calendar-demo mvn Webapp</name>
+  <url>http://mvn.apache.org</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -47,8 +47,8 @@
     <finalName>java-calendar-demo</finalName>
     <plugins>
         <plugin>
-	        <groupId>org.apache.maven.plugins</groupId>
-	        <artifactId>maven-compiler-plugin</artifactId>
+	        <groupId>org.apache.mvn.plugins</groupId>
+	        <artifactId>mvn-compiler-plugin</artifactId>
 	        <version>3.1</version>
 	        <configuration>
 	            <source>1.8</source>
